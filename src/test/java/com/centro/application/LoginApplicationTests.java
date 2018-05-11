@@ -1,4 +1,4 @@
-package com.centro.login;
+package com.centro.application;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
